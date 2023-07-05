@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Tieli ;)</h1>
+<h1 align="center">Hi there 👋, welcome! ;)</h1>
 <h3 align="center">A Full Stack developer that loves learning about technology.</h3>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tielicristine" alt="tielicristine" /></a> </p>
