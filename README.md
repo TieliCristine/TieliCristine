@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, welcome! ;)</h1>
-<img align="right" height="220" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"  />
 
 <h3 align="center">A Full Stack developer that loves learning about technology.</h3>
 
